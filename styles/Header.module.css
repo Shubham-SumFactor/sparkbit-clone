@@ -1,0 +1,26 @@
+.header {
+    background-color: #fbfbfb;
+    padding: 1rem;
+    border:1px solid black;
+    border-bottom: none;
+  }
+  .header ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    line-height: 1rem;
+  }
+  .header a {
+    text-decoration: none;
+    color: #737373;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  .header a:hover {
+    color: black; 
+  }
+  
